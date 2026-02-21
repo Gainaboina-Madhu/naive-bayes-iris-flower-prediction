@@ -7,16 +7,16 @@ This project predicts the species of an Iris flower using machine learning.
 
 **Based on four measurements:**
 
-  Sepal Length
-  Sepal Width
-  Petal Length
-  Petal Width
+      Sepal Length
+      Sepal Width
+      Petal Length
+      Petal Width
   
 **The system classifies the flower into one of three species:**
 
-  Iris Setosa
-  Iris Versicolor
-  Iris Virginica
+      Iris Setosa
+      Iris Versicolor
+      Iris Virginica
   
  # 🔹 2️⃣ Why We Used Machine Learning
 **We use a machine learning model because:**
