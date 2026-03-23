@@ -1,6 +1,6 @@
-# naive-bayes-iris-flower-prediction
+# naive-bayes-iris-flower-prediction 
 
-# 🌸 How This Project Works
+# 🌸 How This Project Works 
 # 🔹 1️⃣ What Problem It Solves
 
 This project predicts the species of an Iris flower using machine learning.
